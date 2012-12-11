@@ -35,3 +35,10 @@ rm -rf %{buildroot}
 %defattr(-,root,root)
 %doc uips.txt
 %{_bindir}/%{name}
+
+
+%changelog
+* Fri Aug 27 2010 Maarten Vanraes <alien@mandriva.org> 20100823-1mdv2011.0
++ Revision: 573447
+- import uips
+
