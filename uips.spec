@@ -1,6 +1,6 @@
 %define name	uips
 %define version	20100823
-%define release	%mkrel 1
+%define release	2
 
 Name:		%{name}
 Summary:	Universal IPS create/apply utility
