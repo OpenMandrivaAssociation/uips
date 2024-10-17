@@ -7,7 +7,7 @@ Summary:	Universal IPS create/apply utility
 Version:	%{version}
 Release:	%{release}
 Source0:	http://www.neillcorlett.com/downloads/uips_source.zip
-URL:		http://www.neillcorlett.com/uips/
+URL:		https://www.neillcorlett.com/uips/
 
 Group:		File tools
 BuildRoot:	%{_tmppath}/%{name}-%{version}
